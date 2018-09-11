@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="Button">Clear</string>
+    <string name="Ok" translatable="false">OK</string>
+</resources>

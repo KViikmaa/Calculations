@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea00ff</color>
+    <color name="colorPrimaryDark">#dd00ff</color>
+    <color name="colorAccent">#000000</color>
+    <color name="Taust">#ececec</color>
+    <color name="tekst">#ab2525</color>
+    <color name="must">#000000</color>
+</resources>
